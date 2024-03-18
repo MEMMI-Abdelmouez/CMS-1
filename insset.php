@@ -8,10 +8,6 @@ Version: 1.0
 Author URI: http://memmi.com/
 */
 
-
-/*register_activation_hook(__FILE__, function() {
-    wp_die('Wouhou, mon premier hook');
-});*/
 define('INSSET_FILE', __FILE__);
 define('INSSET_DIR', dirname(INSSET_FILE));
 define('INSSET_BASENAME', pathinfo((INSSET_FILE))['filename']);
