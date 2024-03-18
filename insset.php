@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: insset
-Plugin URI: https://mon-siteweb.com/
-Description: Ceci est le plugin 
+Plugin URI: https://memmi.com/
+Description: Ceci est le plugin  de Abdelmouez
 Author: Abdelmouez MEMMI
 Version: 1.0
-Author URI: http://mon-siteweb.com/
+Author URI: http://memmi.com/
 */
 
 
